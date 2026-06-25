@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:nekitgo80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/nikkosup"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/Kroch4ka"><img src="https://img.shields.io/badge/GitHub-Kroch4ka-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
