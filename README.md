@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&random=false&width=520&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B+%D1%8F+Kroch4ka;Ruby-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;3%2B+%D0%B3%D0%BE%D0%B4%D0%B0+%D0%BE%D0%BF%D1%8B%D1%82%D0%B0;%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9+%D0%B8+%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&random=false&width=520&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B+%D1%8F+%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0;Ruby-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;3%2B+%D0%B3%D0%BE%D0%B4%D0%B0+%D0%BE%D0%BF%D1%8B%D1%82%D0%B0;%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9+%D0%B8+%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nekitgo80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/nikkosup"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/Kroch4ka"><img src="https://img.shields.io/badge/GitHub-Kroch4ka-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
